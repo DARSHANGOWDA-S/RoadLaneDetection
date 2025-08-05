@@ -1,7 +1,6 @@
 #include "ImageReformer.h"
 
 namespace imageReformer {
-
 	namespace {
 
 		cv::Mat grayscale(const cv::Mat& image)
