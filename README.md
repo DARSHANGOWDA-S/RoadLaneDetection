@@ -27,7 +27,7 @@ Below I will describe a few highlights of how I achieveded this.
       - Multi-frame alignment
       - Get final result  
 # Part 1. ImageReformer
-This part will consist of special binary image conversions using the Opencv library methods.
+This part will consist of special binary image conversions using the Opencv library methods
 ## Make Binary Image
 ### Standard image convertions
 Grayscaling and clache normalization:  
