@@ -3,7 +3,6 @@
 #include "../Utils/ImageReformer.h"
 #include "../Utils/LaneHandle.h"
 #include "../Utils/Metric.h"
-
 namespace debugdraw
 {
 	void showImageReformerBinary(const cv::Mat& image)
