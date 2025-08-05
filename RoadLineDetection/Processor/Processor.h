@@ -2,7 +2,6 @@
 #include "../Utils/ImageReformer.h"
 #include "../Utils/LaneHandle.h"
 #include "../Utils/Metric.h"
-
 // TO DO: edit vector to list in recentXFitted, recentFit;
 namespace roadLineDetection {
 	struct Line
